@@ -7,7 +7,7 @@
 </head>
 <body>
     <div class="class" align="center">
-        <h2>BuyHerePayHere.com is Currently Under Construction</h2>
+        <h2>BuyHerePayHereUs.com is Currently Under Construction</h2>
     </div>
 </body>
 </html>
